@@ -9,7 +9,7 @@ AlgoTradeTR, tamamen açık kaynaklı ve Python dili ile geliştirilen, topluluk
 - **Tamamen Türkçe:** Projedeki tüm dosya, sınıf, fonksiyon, değişken isimleri, yorum satırları ve dokümantasyonlar Türkçe yazılmaktadır.
 - **Topluluk Odaklılık:** Telegram grubumuzdaki katılımcıların bilgi birikimi ve tecrübeleri ile ortak bir akıl oluşturularak geliştirilir.
 - **Esnek ve Modüler Mimari:** Yeni indikatörlerin, al-sat stratejilerinin ve yeni borsa adaptörlerinin kolayca sisteme entegre edilebileceği modüler bir yapı hedeflenmektedir.
-- **Disiplin ve Sadakat:** Projenin ömrünü uzatmak ve sürdürülebilirliğini sağlamak amacıyla katı kodlama kuralları benimsenmiştir.
+- **Sürdürülebilir Kod Kalitesi:** Projenin hata oranını en aza indirmek, uzun ömürlü gelişimini desteklemek ve okunabilirliği korumak amacıyla profesyonel mühendislik prensipleri benimsenmiştir.
 
 ## Katkıda Bulunma
 Bu projeye nasıl katkı sağlayabileceğinizi öğrenmek ve kurallarımızı görmek için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.
